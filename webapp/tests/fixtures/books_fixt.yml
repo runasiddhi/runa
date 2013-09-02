@@ -1,0 +1,12 @@
+1:
+	id:1
+	book_name:"literature"
+	author: "abc"
+	is_active:1
+	is_deleted:0
+2:
+	id:2
+	book_name:"Economics"
+	author:"xyz"
+	is_active:1
+	is_deleted:0

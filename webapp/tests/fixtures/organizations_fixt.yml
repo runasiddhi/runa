@@ -1,0 +1,16 @@
+1:
+	id:1
+	name:"bits"
+	address:"djfk"
+	contact_number:"9841236743"
+	email:"info@bits.co"
+	is_active:1
+	is_deleted:0
+2:
+	id:2
+	name:"olive"
+	address:"djfk"
+	contact_number:"9841236743"
+	email:"info@olive.co"
+	is_active:1
+	is_deleted:0

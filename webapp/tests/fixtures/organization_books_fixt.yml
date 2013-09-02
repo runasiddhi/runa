@@ -1,0 +1,14 @@
+1:
+	id:1
+	org_id:1
+	book_id:1
+	is_active:1
+	is_deleted:0
+	quantity:10
+2: 
+	id:2
+	org_id:2
+	book_id:1
+	is_active:1
+	is_deleted:0
+	quantity:10
